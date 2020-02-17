@@ -10,5 +10,5 @@ def rans():
             print("you lose",a,'not equal to',b);
             print("Try again...!")
             break
-    i=i+1;
+        i=i+1;
 rans();
